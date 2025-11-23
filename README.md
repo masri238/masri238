@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamad
 
-<!--
-**masri238/masri238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am currently learning **QA (Quality Assurance)** and **Full Stack Development**.  
+I enjoy building websites, improving code quality, and learning new technologies.  
+My goal is to become a skilled QA Engineer and Full Stack Developer.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- API testing with Postman
+- HTML & CSS  
+- JavaScript  
+- Python  
+- Git & GitHub  
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- QA Testing (Manual & Automation)  
+- Full Stack Web Development  
+- Best coding practices
+- 
+## 📫 Contact Me
+📧 Email: **Mohamad.mass.2002@gmail.com**
+
+## ⚡ Fun fact
+I love learning new technologies and solving problems!
